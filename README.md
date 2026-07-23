@@ -1,2 +1,2 @@
-# My-Fishing-Game---Database.github.io
+# My-Fishing-World--Game-Database.github.io
 База данных по рыбе и трофеям
