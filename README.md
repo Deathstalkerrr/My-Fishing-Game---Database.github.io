@@ -1,4 +1,4 @@
-### My [`Fishing World — Database`](https://deathstalkerrr.github.io/)
+###  [`My Fishing World — Database`](https://deathstalkerrr.github.io/)
 
 **База данных по рыбе и трофеям** для мобильной игры My Fishing World.
 
