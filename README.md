@@ -1,4 +1,4 @@
-  #  [My Fishing World — Database]([https://pages.github.com/](https://deathstalkerrr.github.io/))
+### My [`Fishing World — Database`](https://deathstalkerrr.github.io/)
 
 **База данных по рыбе и трофеям** для мобильной игры My Fishing World.
 
@@ -14,7 +14,11 @@
 
 ## Как пользоваться
 
-Просто откройте `MFW-DATABASE-v7.6.2.html` в браузере — все данные и стили встроены в один файл, интернет не нужен.
+Просто сохраните [`MFW-DATABASE-v7.6.2.html`](https://github.com/Deathstalkerrr/My-Fishing-World-Database.github.io/blob/main/MFW-DATABASE-v7.6.2.html) у себя на устройстве, в любом удобном для вас месте, и откройте в браузере — все данные и стили встроены в один файл, интернет не нужен.
+
+Если нужна онлайн версия, то её вы найдёте здесь: [https://deathstalkerrr.github.io](https://deathstalkerrr.github.io/)
+
+Тем, кому нужна онлайн-версия — она доступна по адресу: [https://deathstalkerrr.github.io](https://deathstalkerrr.github.io/)
 
 ## Источники данных
 
