@@ -15,7 +15,7 @@
 
 ## Как пользоваться
 
-Просто сохраните [`MFW-DATABASE-v7.6.2.html`](https://github.com/Deathstalkerrr/My-Fishing-World-Database.github.io/blob/main/MFW-DATABASE-v7.6.2.html) у себя на устройстве, в любом удобном для вас месте, и откройте в браузере — все данные и стили встроены в один файл, интернет не нужен.
+Просто сохраните [`MFW-DATABASE-v7.6.3.html`](https://github.com/Deathstalkerrr/My-Fishing-World-Database.github.io/blob/main/MFW-DATABASE-v7.6.2.html) у себя на устройстве, в любом удобном для вас месте, и откройте в браузере — все данные и стили встроены в один файл, интернет не нужен.
 
 Если нужна онлайн версия, то её вы найдёте здесь: [https://deathstalkerrr.github.io](https://deathstalkerrr.github.io/)
 
