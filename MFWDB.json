@@ -755,6 +755,19 @@
       "price_final": 473,
       "dohodnost_final": 21724.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 101.01,
+      "b": 5.31,
+      "formula": "price = 101.01 + 5.31 * weight_kg",
+      "r2": 0.9988,
+      "points": 14,
+      "calibrated_weight_range_kg": [
+        4.3,
+        10.77
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -1074,6 +1087,19 @@
       "price_final": 176,
       "dohodnost_final": 12073.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 66.05,
+      "b": 7.0,
+      "formula": "price = 66.05 + 7.0 * weight_kg",
+      "r2": 0.983,
+      "points": 3,
+      "calibrated_weight_range_kg": [
+        0.82,
+        1.27
+      ],
+      "status": "предварительная",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -1967,6 +1993,42 @@
         "date": "15.12.2022",
         "note": "Крючок #3.х",
         "original_label": "Белый Краппи"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.132,
+        "weight_max_kg": 2.346,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "237 наблюдений из личных скриншотов пользователя",
+        "original_label": "Белый Краппи"
+      },
+      {
+        "location": "Река Колорадо",
+        "bait": "Креветка",
+        "distance": 3.7,
+        "price": null,
+        "weight_min_kg": 0.132,
+        "weight_max_kg": 1.282,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-24.07.2026",
+        "note": "Крючок #1.1 (161 наблюдение); без прилова",
+        "original_label": "Белый Краппи"
+      },
+      {
+        "location": "Река Колорадо",
+        "bait": "Креветка",
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.822,
+        "weight_max_kg": 2.346,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "24-25.07.2026",
+        "note": "Крючок #3.1, ночная ловля/луна (77 наблюдений)",
+        "original_label": "Белый Краппи"
       }
     ],
     "mention_stats": {
@@ -2002,6 +2064,13 @@
       "price_final": 232,
       "dohodnost_final": 17242.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 175.91,
+      "b": 26.3,
+      "formula": "price = 175.91 + 26.3 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -2681,6 +2750,18 @@
         "date": "15.12.2022",
         "note": "Крючок #4.х",
         "original_label": "Вырезуб"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 1.655,
+        "weight_max_kg": 6.802,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "13 наблюдений из личных скриншотов пользователя",
+        "original_label": "Вырезуб"
       }
     ],
     "mention_stats": {
@@ -3052,6 +3133,18 @@
         "date": "15.12.2022",
         "note": "Крючок #5.х",
         "original_label": "Голавль"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 3.289,
+        "weight_max_kg": 4.316,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "8 наблюдений из личных скриншотов пользователя",
+        "original_label": "Голавль"
       }
     ],
     "mention_stats": {
@@ -3385,6 +3478,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Крючок #2.х; ТРОФЕЙ, максимальный вес пойман лично",
+        "original_label": "Европейская Ряпушка"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.301,
+        "weight_max_kg": 0.31,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "2 наблюдений из личных скриншотов пользователя",
         "original_label": "Европейская Ряпушка"
       }
     ],
@@ -4235,6 +4340,18 @@
         "date": "15.12.2022",
         "note": "Крючок #6.х",
         "original_label": "Зеркальный Карп"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 21.842,
+        "weight_max_kg": 28.504,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "2 наблюдений из личных скриншотов пользователя",
+        "original_label": "Зеркальный Карп"
       }
     ],
     "mention_stats": {
@@ -4269,6 +4386,19 @@
       "price_final": 359,
       "dohodnost_final": 18423.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 101.27,
+      "b": 4.49,
+      "formula": "price = 101.27 + 4.49 * weight_kg",
+      "r2": 0.9996,
+      "points": 33,
+      "calibrated_weight_range_kg": [
+        1.79,
+        20.18
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -4332,6 +4462,18 @@
         "date": "15.12.2022",
         "note": "Крючок #6.х",
         "original_label": "Змееголов"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 8.272,
+        "weight_max_kg": 11.882,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "15 наблюдений из личных скриншотов пользователя",
+        "original_label": "Змееголов"
       }
     ],
     "mention_stats": {
@@ -4367,6 +4509,19 @@
       "price_final": 277,
       "dohodnost_final": 19234.5,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 92.81,
+      "b": 7.28,
+      "formula": "price = 92.81 + 7.28 * weight_kg",
+      "r2": 0.9987,
+      "points": 12,
+      "calibrated_weight_range_kg": [
+        9.05,
+        13.22
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -5370,6 +5525,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Точный пойманный экземпляр, вес близок к максимуму вида",
+        "original_label": "Карин"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 10.883,
+        "weight_max_kg": 13.969,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "5 наблюдений из личных скриншотов пользователя",
         "original_label": "Карин"
       }
     ],
@@ -6376,6 +6543,19 @@
       "price_final": 104,
       "dohodnost_final": 7868.2,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 45.78,
+      "b": 15.88,
+      "formula": "price = 45.78 + 15.88 * weight_kg",
+      "r2": 0.999,
+      "points": 13,
+      "calibrated_weight_range_kg": [
+        0.97,
+        3.72
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -7119,6 +7299,19 @@
       "price_final": 265,
       "dohodnost_final": 15071.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 45.21,
+      "b": 18.82,
+      "formula": "price = 45.21 + 18.82 * weight_kg",
+      "r2": 0.9996,
+      "points": 22,
+      "calibrated_weight_range_kg": [
+        3.41,
+        7.07
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -7927,6 +8120,18 @@
         "date": "15.12.2022",
         "note": "Крючок #4.х; ТРОФЕЙ, максимальный вес пойман лично",
         "original_label": "Микижа"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 3.109,
+        "weight_max_kg": 3.29,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "12 наблюдений из личных скриншотов пользователя",
+        "original_label": "Микижа"
       }
     ],
     "mention_stats": {
@@ -8658,6 +8863,18 @@
         "date": "15.12.2022",
         "note": "Крючок #4.х",
         "original_label": "Нерка"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 5.22,
+        "weight_max_kg": 5.22,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "1 наблюдений из личных скриншотов пользователя",
+        "original_label": "Нерка"
       }
     ],
     "mention_stats": {
@@ -8695,6 +8912,19 @@
       "price_final": 176,
       "dohodnost_final": 13193.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 72.15,
+      "b": 8.77,
+      "formula": "price = 72.15 + 8.77 * weight_kg",
+      "r2": 0.9788,
+      "points": 16,
+      "calibrated_weight_range_kg": [
+        3.76,
+        5.04
+      ],
+      "status": "предварительная",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -9039,6 +9269,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Крючок #5.х",
+        "original_label": "Обыкновенный Верхогляд"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 3.118,
+        "weight_max_kg": 9.386,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "9 наблюдений из личных скриншотов пользователя",
         "original_label": "Обыкновенный Верхогляд"
       }
     ],
@@ -9524,6 +9766,18 @@
         "date": "15.12.2022",
         "note": "Крючок #3.х",
         "original_label": "Осман"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.38,
+        "weight_max_kg": 1.207,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "6 наблюдений из личных скриншотов пользователя",
+        "original_label": "Осман"
       }
     ],
     "mention_stats": {
@@ -9967,6 +10221,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Точный пойманный экземпляр, вес близок к максимуму вида",
+        "original_label": "Панзерус"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 7.989,
+        "weight_max_kg": 14.71,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "6 наблюдений из личных скриншотов пользователя",
         "original_label": "Панзерус"
       }
     ],
@@ -10530,6 +10796,13 @@
       "price_final": 5473,
       "dohodnost_final": 23455.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 448.06,
+      "b": 130.84,
+      "formula": "price = 448.06 + 130.84 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -12293,6 +12566,19 @@
       "price_final": 326,
       "dohodnost_final": 18127.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 85.59,
+      "b": 6.68,
+      "formula": "price = 85.59 + 6.68 * weight_kg",
+      "r2": 0.9995,
+      "points": 8,
+      "calibrated_weight_range_kg": [
+        12.45,
+        18.39
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -13020,6 +13306,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Крючок #3.х",
+        "original_label": "Синец"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.804,
+        "weight_max_kg": 1.59,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "6 наблюдений из личных скриншотов пользователя",
         "original_label": "Синец"
       }
     ],
@@ -14456,6 +14754,18 @@
         "date": "15.12.2022",
         "note": "Крючок #4.х; ТРОФЕЙ, максимальный вес пойман лично",
         "original_label": "Угорь"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 0.94,
+        "weight_max_kg": 4.098,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "32 наблюдений из личных скриншотов пользователя",
+        "original_label": "Угорь"
       }
     ],
     "mention_stats": {
@@ -14495,6 +14805,13 @@
       "price_final": 397,
       "dohodnost_final": 30136.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 157.67,
+      "b": 28.64,
+      "formula": "price = 157.67 + 28.64 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -14991,6 +15308,19 @@
       "price_final": 350,
       "dohodnost_final": 17768.8,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 139.61,
+      "b": 5.57,
+      "formula": "price = 139.61 + 5.57 * weight_kg",
+      "r2": 1.0,
+      "points": 4,
+      "calibrated_weight_range_kg": [
+        9.77,
+        14.08
+      ],
+      "status": "предварительная",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -15417,6 +15747,13 @@
       "price_final": 231,
       "dohodnost_final": 14393.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 175.91,
+      "b": 26.3,
+      "formula": "price = 175.91 + 26.3 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -16357,6 +16694,18 @@
         "date": "15.12.2022",
         "note": "Крючок #4.х; ТРОФЕЙ, максимальный вес пойман лично",
         "original_label": "Щука Травянка"
+      },
+      {
+        "location": "Изумрудное озеро",
+        "bait": "Личинка Майского Жука",
+        "distance": 3.0,
+        "price": null,
+        "weight_min_kg": 1.264,
+        "weight_max_kg": 3.15,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "25.07.2026",
+        "note": "Крючок #4.х (45 наблюдений)",
+        "original_label": "Щука Травянка"
       }
     ],
     "mention_stats": {
@@ -16422,6 +16771,13 @@
       "price_final": 235,
       "dohodnost_final": 20298.8,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 157.28,
+      "b": 29.62,
+      "formula": "price = 157.28 + 29.62 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -16515,6 +16871,13 @@
       "price_final": 650,
       "dohodnost_final": 35473.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 3094.79,
+      "b": 29.82,
+      "formula": "price = 3094.79 + 29.82 * weight_kg",
+      "status": "подтверждённая",
+      "source": "калибровка предыдущих сессий"
     }
   },
   {
@@ -16624,6 +16987,19 @@
       "price_final": 452,
       "dohodnost_final": 21901.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 131.79,
+      "b": 3.98,
+      "formula": "price = 131.79 + 3.98 * weight_kg",
+      "r2": 0.9999,
+      "points": 9,
+      "calibrated_weight_range_kg": [
+        15.08,
+        41.71
+      ],
+      "status": "подтверждённая",
+      "source": "личные скриншоты садка и поимок, 07.2026"
     }
   },
   {
@@ -16685,6 +17061,18 @@
         "source": "Таблица \"Рыбы по локациям\" (vk@alone_with_himself)",
         "date": "15.12.2022",
         "note": "Крючок #4.х",
+        "original_label": "Язь"
+      },
+      {
+        "location": null,
+        "bait": null,
+        "distance": null,
+        "price": null,
+        "weight_min_kg": 4.063,
+        "weight_max_kg": 4.063,
+        "source": "Личные скриншоты вылова (owner.zip)",
+        "date": "23-25.07.2026",
+        "note": "1 наблюдений из личных скриншотов пользователя",
         "original_label": "Язь"
       }
     ],

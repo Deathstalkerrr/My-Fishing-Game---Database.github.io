@@ -1,0 +1,269 @@
+{
+ "lures": {
+  "Predator PRO": {
+   "rank": 40,
+   "fish_weight_kg": [
+    50.0,
+    200.0
+   ]
+  },
+  "Snake head": {
+   "rank": 39,
+   "fish_weight_kg": [
+    45.0,
+    162.0
+   ]
+  },
+  "Big hunter": {
+   "rank": 37,
+   "fish_weight_kg": [
+    41.0,
+    130.0
+   ]
+  },
+  "Z200": {
+   "rank": 36,
+   "fish_weight_kg": [
+    36.0,
+    105.0
+   ]
+  },
+  "Master fish": {
+   "rank": 34,
+   "fish_weight_kg": [
+    30.0,
+    85.0
+   ]
+  },
+  "Platypus 190": {
+   "rank": 33,
+   "fish_weight_kg": [
+    20.0,
+    69.0
+   ]
+  },
+  "Choppo": {
+   "rank": 31,
+   "fish_weight_kg": [
+    13.5,
+    55.8
+   ]
+  },
+  "WM156": {
+   "rank": 29,
+   "fish_weight_kg": [
+    8.0,
+    45.0
+   ]
+  },
+  "Magallon": {
+   "rank": 28,
+   "fish_weight_kg": [
+    5.0,
+    36.5
+   ]
+  },
+  "Artificial hard crank": {
+   "rank": 26,
+   "fish_weight_kg": [
+    2.0,
+    29.4
+   ]
+  },
+  "NS001": {
+   "rank": 25,
+   "fish_weight_kg": [
+    1.2,
+    23.8
+   ]
+  },
+  "Alpha diver": {
+   "rank": 23,
+   "fish_weight_kg": [
+    0.6,
+    19.2
+   ]
+  },
+  "Shake crank": {
+   "rank": 21,
+   "fish_weight_kg": [
+    0.54,
+    15.5
+   ]
+  },
+  "Little hunter S": {
+   "rank": 19,
+   "fish_weight_kg": [
+    0.5,
+    12.5
+   ]
+  },
+  "Little hunter C": {
+   "rank": 18,
+   "fish_weight_kg": [
+    0.5,
+    10.0
+   ]
+  },
+  "Razorback": {
+   "rank": 16,
+   "fish_weight_kg": [
+    0.46,
+    8.2
+   ]
+  },
+  "Boney Bream": {
+   "rank": 15,
+   "fish_weight_kg": [
+    0.43,
+    6.6
+   ]
+  },
+  "S-DR": {
+   "rank": 13,
+   "fish_weight_kg": [
+    0.37,
+    5.3
+   ]
+  },
+  "Baby crank": {
+   "rank": 12,
+   "fish_weight_kg": [
+    0.3,
+    4.3
+   ]
+  },
+  "Lite fish": {
+   "rank": 10,
+   "fish_weight_kg": [
+    0.26,
+    3.5
+   ]
+  }
+ },
+ "hooks": {
+  "Винтажный крючок #1": {
+   "fish_weight_kg": null
+  },
+  "Крючок #1.1": {
+   "fish_weight_kg": [
+    0.02,
+    1.3
+   ]
+  },
+  "Крючок #1.2": {
+   "fish_weight_kg": [
+    0.02,
+    1.7
+   ]
+  },
+  "Крючок #1.3": {
+   "fish_weight_kg": [
+    0.02,
+    2.2
+   ]
+  },
+  "Крючок #1.4": {
+   "fish_weight_kg": [
+    0.02,
+    2.8
+   ]
+  },
+  "Крючок #2.1": {
+   "fish_weight_kg": [
+    0.3,
+    3.7
+   ]
+  },
+  "Крючок #2.2": {
+   "fish_weight_kg": [
+    0.3,
+    4.9
+   ]
+  },
+  "Крючок #2.3": {
+   "fish_weight_kg": [
+    0.3,
+    6.3
+   ]
+  },
+  "Крючок #2.4": {
+   "fish_weight_kg": [
+    0.3,
+    8.3
+   ]
+  },
+  "Крючок #3.1": {
+   "fish_weight_kg": [
+    0.8,
+    10.8
+   ]
+  },
+  "Крючок #3.2": {
+   "fish_weight_kg": [
+    0.8,
+    14
+   ]
+  },
+  "Крючок #3.3": {
+   "fish_weight_kg": [
+    0.8,
+    18.4
+   ]
+  },
+  "Крючок #3.4": {
+   "fish_weight_kg": [
+    0.8,
+    24
+   ]
+  },
+  "Крючок #4.1": {
+   "fish_weight_kg": [
+    3.1,
+    31.2
+   ]
+  },
+  "Крючок #4.2": {
+   "fish_weight_kg": [
+    3.1,
+    40
+   ]
+  },
+  "Крючок #4.3": {
+   "fish_weight_kg": [
+    3.1,
+    53
+   ]
+  },
+  "Крючок #5.1": {
+   "fish_weight_kg": [
+    8,
+    69
+   ]
+  },
+  "Крючок #5.2": {
+   "fish_weight_kg": [
+    8,
+    90
+   ]
+  },
+  "Крючок #6.1": {
+   "fish_weight_kg": [
+    12,
+    117
+   ]
+  },
+  "Крючок #6.2": {
+   "fish_weight_kg": [
+    12,
+    153
+   ]
+  },
+  "Крючок #6.3": {
+   "fish_weight_kg": [
+    12,
+    200
+   ]
+  }
+ }
+}
