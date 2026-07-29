@@ -208,6 +208,19 @@
       "price_final": 1023,
       "dohodnost_final": 11208.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 188.67,
+      "b": 2.05,
+      "formula": "price = 188.67 + 2.05 * weight_kg",
+      "r2": 1.0,
+      "points": 9,
+      "calibrated_weight_range_kg": [
+        61.694,
+        199.978
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -767,7 +780,7 @@
         10.77
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -872,6 +885,19 @@
       "price_final": 449,
       "dohodnost_final": 24690.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 78.75,
+      "b": 7.15,
+      "formula": "price = 78.75 + 7.15 * weight_kg",
+      "r2": 1.0,
+      "points": 12,
+      "calibrated_weight_range_kg": [
+        5.847,
+        31.196
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -986,6 +1012,19 @@
       "price_final": 12492,
       "dohodnost_final": 53537.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1952.45,
+      "b": 32.95,
+      "formula": "price = 1952.45 + 32.95 * weight_kg",
+      "r2": 1.0,
+      "points": 53,
+      "calibrated_weight_range_kg": [
+        114.453,
+        199.128
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -1099,7 +1138,7 @@
         1.27
       ],
       "status": "предварительная",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -1626,6 +1665,19 @@
       "price_final": 82,
       "dohodnost_final": 6283.2,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 43.32,
+      "b": 26.0,
+      "formula": "price = 43.32 + 26.0 * weight_kg",
+      "r2": 1.0,
+      "points": 4,
+      "calibrated_weight_range_kg": [
+        0.911,
+        1.488
+      ],
+      "status": "предварительная",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -1833,6 +1885,19 @@
       "price_final": 820,
       "dohodnost_final": 8500.9,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 92.24,
+      "b": 2.54,
+      "formula": "price = 92.24 + 2.54 * weight_kg",
+      "r2": 1.0,
+      "points": 5,
+      "calibrated_weight_range_kg": [
+        66.433,
+        148.707
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -2070,7 +2135,7 @@
       "b": 26.3,
       "formula": "price = 175.91 + 26.3 * weight_kg",
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -2299,6 +2364,19 @@
       "price_final": 130,
       "dohodnost_final": 9217.8,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 40.88,
+      "b": 15.44,
+      "formula": "price = 40.88 + 15.44 * weight_kg",
+      "r2": 0.9989,
+      "points": 25,
+      "calibrated_weight_range_kg": [
+        0.986,
+        3.085
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -2797,6 +2875,19 @@
       "price_final": 155,
       "dohodnost_final": 10985.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 35.44,
+      "b": 10.27,
+      "formula": "price = 35.44 + 10.27 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        4.534,
+        6.871
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -2896,6 +2987,19 @@
       "price_final": 1330,
       "dohodnost_final": 5700.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 233.92,
+      "b": 3.51,
+      "formula": "price = 233.92 + 3.51 * weight_kg",
+      "r2": 1.0,
+      "points": 18,
+      "calibrated_weight_range_kg": [
+        74.664,
+        161.301
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -3046,6 +3150,19 @@
       "price_final": 3702,
       "dohodnost_final": 15865.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 509.28,
+      "b": 93.05,
+      "formula": "price = 509.28 + 93.05 * weight_kg",
+      "r2": 1.0,
+      "points": 92,
+      "calibrated_weight_range_kg": [
+        1.418,
+        21.509
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4071,6 +4188,19 @@
       "price_final": 227,
       "dohodnost_final": 14441.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 77.47,
+      "b": 6.31,
+      "formula": "price = 77.47 + 6.31 * weight_kg",
+      "r2": 0.9994,
+      "points": 24,
+      "calibrated_weight_range_kg": [
+        1.181,
+        10.198
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4168,6 +4298,19 @@
       "price_final": 11981,
       "dohodnost_final": 51347.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 749.76,
+      "b": 36.75,
+      "formula": "price = 749.76 + 36.75 * weight_kg",
+      "r2": 1.0,
+      "points": 20,
+      "calibrated_weight_range_kg": [
+        127.91,
+        199.987
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4277,6 +4420,19 @@
       "price_final": 12901,
       "dohodnost_final": 55290.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1837.47,
+      "b": 34.91,
+      "formula": "price = 1837.47 + 34.91 * weight_kg",
+      "r2": 1.0,
+      "points": 28,
+      "calibrated_weight_range_kg": [
+        59.329,
+        199.981
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4398,7 +4554,7 @@
         20.18
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4521,7 +4677,7 @@
         13.22
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -4611,6 +4767,19 @@
       "price_final": 12235,
       "dohodnost_final": 52435.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1916.42,
+      "b": 48.94,
+      "formula": "price = 1916.42 + 48.94 * weight_kg",
+      "r2": 1.0,
+      "points": 18,
+      "calibrated_weight_range_kg": [
+        56.845,
+        129.706
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -5260,6 +5429,19 @@
       "price_final": 3863,
       "dohodnost_final": 16555.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 448.14,
+      "b": 51.67,
+      "formula": "price = 448.14 + 51.67 * weight_kg",
+      "r2": 1.0,
+      "points": 4,
+      "calibrated_weight_range_kg": [
+        43.658,
+        65.469
+      ],
+      "status": "предварительная",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -5581,6 +5763,19 @@
       "price_final": 1089,
       "dohodnost_final": 4667.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 300.01,
+      "b": 3.85,
+      "formula": "price = 300.01 + 3.85 * weight_kg",
+      "r2": 1.0,
+      "points": 27,
+      "calibrated_weight_range_kg": [
+        20.697,
+        111.15
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -5857,6 +6052,19 @@
       "price_final": 991,
       "dohodnost_final": 4247.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 247.39,
+      "b": 9.46,
+      "formula": "price = 247.39 + 9.46 * weight_kg",
+      "r2": 1.0,
+      "points": 28,
+      "calibrated_weight_range_kg": [
+        3.712,
+        43.481
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -6068,6 +6276,19 @@
       "price_final": 180,
       "dohodnost_final": 11438.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 60.11,
+      "b": 8.17,
+      "formula": "price = 60.11 + 8.17 * weight_kg",
+      "r2": 1.0,
+      "points": 11,
+      "calibrated_weight_range_kg": [
+        3.656,
+        7.338
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -6555,7 +6776,7 @@
         3.72
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -6689,6 +6910,19 @@
       "price_final": 71,
       "dohodnost_final": 5289.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 26.15,
+      "b": 23.53,
+      "formula": "price = 26.15 + 23.53 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        1.566,
+        1.821
+      ],
+      "status": "предварительная",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -6884,6 +7118,19 @@
       "price_final": 1024,
       "dohodnost_final": 11016.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 285.61,
+      "b": 2.16,
+      "formula": "price = 285.61 + 2.16 * weight_kg",
+      "r2": 1.0,
+      "points": 27,
+      "calibrated_weight_range_kg": [
+        51.844,
+        194.429
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -6982,6 +7229,19 @@
       "price_final": 1023,
       "dohodnost_final": 11136.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 217.44,
+      "b": 2.03,
+      "formula": "price = 217.44 + 2.03 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        53.443,
+        114.488
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -7202,6 +7462,19 @@
       "price_final": 5118,
       "dohodnost_final": 21934.3,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 307.32,
+      "b": 211.44,
+      "formula": "price = 307.32 + 211.44 * weight_kg",
+      "r2": 1.0,
+      "points": 119,
+      "calibrated_weight_range_kg": [
+        4.021,
+        14.973
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -7311,7 +7584,7 @@
         7.07
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -7418,6 +7691,19 @@
       "price_final": 181,
       "dohodnost_final": 12803.9,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 32.03,
+      "b": 15.01,
+      "formula": "price = 32.03 + 15.01 * weight_kg",
+      "r2": 0.9994,
+      "points": 18,
+      "calibrated_weight_range_kg": [
+        2.865,
+        6.167
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -8591,6 +8877,19 @@
       "price_final": 140,
       "dohodnost_final": 9604.9,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 36.78,
+      "b": 6.92,
+      "formula": "price = 36.78 + 6.92 * weight_kg",
+      "r2": 0.9997,
+      "points": 13,
+      "calibrated_weight_range_kg": [
+        2.617,
+        8.299
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -8731,6 +9030,19 @@
       "price_final": 531,
       "dohodnost_final": 30619.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 184.42,
+      "b": 9.59,
+      "formula": "price = 184.42 + 9.59 * weight_kg",
+      "r2": 0.9999,
+      "points": 13,
+      "calibrated_weight_range_kg": [
+        13.406,
+        18.089
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -8924,7 +9236,7 @@
         5.04
       ],
       "status": "предварительная",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -9120,6 +9432,19 @@
       "price_final": 200,
       "dohodnost_final": 15377.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 60.84,
+      "b": 397.66,
+      "formula": "price = 60.84 + 397.66 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        0.189,
+        0.36
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -9379,6 +9704,19 @@
       "price_final": 131,
       "dohodnost_final": 9593.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 75.45,
+      "b": 11.21,
+      "formula": "price = 75.45 + 11.21 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        3.439,
+        4.777
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -9630,6 +9968,19 @@
       "price_final": 120,
       "dohodnost_final": 8240.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 26.95,
+      "b": 17.38,
+      "formula": "price = 26.95 + 17.38 * weight_kg",
+      "r2": 0.9991,
+      "points": 80,
+      "calibrated_weight_range_kg": [
+        0.803,
+        3.199
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -9704,6 +10055,19 @@
       "price_final": 12908,
       "dohodnost_final": 55320.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 631.28,
+      "b": 40.64,
+      "formula": "price = 631.28 + 40.64 * weight_kg",
+      "r2": 1.0,
+      "points": 66,
+      "calibrated_weight_range_kg": [
+        84.892,
+        199.809
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -10277,6 +10641,19 @@
       "price_final": 1103,
       "dohodnost_final": 4727.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 265.86,
+      "b": 5.8,
+      "formula": "price = 265.86 + 5.8 * weight_kg",
+      "r2": 1.0,
+      "points": 50,
+      "calibrated_weight_range_kg": [
+        7.839,
+        75.636
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -10798,11 +11175,17 @@
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
     },
     "price_fit": {
-      "a": 448.06,
-      "b": 130.84,
-      "formula": "price = 448.06 + 130.84 * weight_kg",
+      "a": 446.23,
+      "b": 130.92,
+      "formula": "price = 446.23 + 130.92 * weight_kg",
+      "r2": 1.0,
+      "points": 44,
+      "calibrated_weight_range_kg": [
+        5.949,
+        24.913
+      ],
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -11094,6 +11477,19 @@
       "price_final": 12701,
       "dohodnost_final": 54432.9,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 924.75,
+      "b": 38.57,
+      "formula": "price = 924.75 + 38.57 * weight_kg",
+      "r2": 1.0,
+      "points": 17,
+      "calibrated_weight_range_kg": [
+        80.193,
+        195.407
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -11292,6 +11688,19 @@
       "price_final": 518,
       "dohodnost_final": 30406.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 280.29,
+      "b": 9.93,
+      "formula": "price = 280.29 + 9.93 * weight_kg",
+      "r2": 0.9999,
+      "points": 15,
+      "calibrated_weight_range_kg": [
+        12.989,
+        19.017
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -11642,6 +12051,19 @@
       "price_final": 4764,
       "dohodnost_final": 20417.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 358.81,
+      "b": 240.04,
+      "formula": "price = 358.81 + 240.04 * weight_kg",
+      "r2": 1.0,
+      "points": 108,
+      "calibrated_weight_range_kg": [
+        2.316,
+        11.983
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -11780,6 +12202,19 @@
       "price_final": 573,
       "dohodnost_final": 28548.5,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 187.62,
+      "b": 6.97,
+      "formula": "price = 187.62 + 6.97 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        15.555,
+        26.75
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -12051,6 +12486,19 @@
       "price_final": 820,
       "dohodnost_final": 8517.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 77.63,
+      "b": 2.61,
+      "formula": "price = 77.63 + 2.61 * weight_kg",
+      "r2": 1.0,
+      "points": 5,
+      "calibrated_weight_range_kg": [
+        63.06,
+        198.486
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -12229,6 +12677,19 @@
       "price_final": 4246,
       "dohodnost_final": 18197.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 50.13,
+      "b": 62.74,
+      "formula": "price = 50.13 + 62.74 * weight_kg",
+      "r2": 1.0,
+      "points": 99,
+      "calibrated_weight_range_kg": [
+        14.613,
+        46.785
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -12322,6 +12783,19 @@
       "price_final": 9151,
       "dohodnost_final": 39218.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1014.12,
+      "b": 43.54,
+      "formula": "price = 1014.12 + 43.54 * weight_kg",
+      "r2": 1.0,
+      "points": 28,
+      "calibrated_weight_range_kg": [
+        7.151,
+        118.325
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -12578,7 +13052,7 @@
         18.39
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -13622,6 +14096,19 @@
       "price_final": 13315,
       "dohodnost_final": 57064.3,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 731.68,
+      "b": 41.34,
+      "formula": "price = 731.68 + 41.34 * weight_kg",
+      "r2": 1.0,
+      "points": 15,
+      "calibrated_weight_range_kg": [
+        117.226,
+        198.133
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -13762,6 +14249,19 @@
       "price_final": 1023,
       "dohodnost_final": 10937.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 122.21,
+      "b": 2.39,
+      "formula": "price = 122.21 + 2.39 * weight_kg",
+      "r2": 1.0,
+      "points": 24,
+      "calibrated_weight_range_kg": [
+        4.003,
+        198.545
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -13864,6 +14364,19 @@
       "price_final": 263,
       "dohodnost_final": 17445.2,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 101.71,
+      "b": 8.85,
+      "formula": "price = 101.71 + 8.85 * weight_kg",
+      "r2": 0.9985,
+      "points": 15,
+      "calibrated_weight_range_kg": [
+        6.254,
+        8.629
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -14187,6 +14700,19 @@
       "price_final": 12187,
       "dohodnost_final": 52230.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1553.23,
+      "b": 33.63,
+      "formula": "price = 1553.23 + 33.63 * weight_kg",
+      "r2": 1.0,
+      "points": 32,
+      "calibrated_weight_range_kg": [
+        65.779,
+        199.069
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -14331,6 +14857,19 @@
       "price_final": 1023,
       "dohodnost_final": 10748.8,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 186.67,
+      "b": 2.06,
+      "formula": "price = 186.67 + 2.06 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        68.135,
+        199.718
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -14594,6 +15133,19 @@
       "price_final": 959,
       "dohodnost_final": 4110.0,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 238.17,
+      "b": 8.32,
+      "formula": "price = 238.17 + 8.32 * weight_kg",
+      "r2": 1.0,
+      "points": 17,
+      "calibrated_weight_range_kg": [
+        28.569,
+        50.935
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -14807,11 +15359,17 @@
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
     },
     "price_fit": {
-      "a": 157.67,
-      "b": 28.64,
-      "formula": "price = 157.67 + 28.64 * weight_kg",
+      "a": 158.0,
+      "b": 28.53,
+      "formula": "price = 158.0 + 28.53 * weight_kg",
+      "r2": 0.9995,
+      "points": 73,
+      "calibrated_weight_range_kg": [
+        1.527,
+        4.1
+      ],
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15017,6 +15575,19 @@
       "price_final": 314,
       "dohodnost_final": 20879.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 75.46,
+      "b": 11.76,
+      "formula": "price = 75.46 + 11.76 * weight_kg",
+      "r2": 1.0,
+      "points": 10,
+      "calibrated_weight_range_kg": [
+        0.799,
+        10.164
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15110,6 +15681,19 @@
       "price_final": 214,
       "dohodnost_final": 14484.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 87.59,
+      "b": 7.24,
+      "formula": "price = 87.59 + 7.24 * weight_kg",
+      "r2": 0.9997,
+      "points": 8,
+      "calibrated_weight_range_kg": [
+        1.163,
+        7.431
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15208,6 +15792,19 @@
       "price_final": 129,
       "dohodnost_final": 9597.7,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 65.79,
+      "b": 10.31,
+      "formula": "price = 65.79 + 10.31 * weight_kg",
+      "r2": 1.0,
+      "points": 5,
+      "calibrated_weight_range_kg": [
+        4.286,
+        6.225
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15320,7 +15917,7 @@
         14.08
       ],
       "status": "предварительная",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15418,6 +16015,19 @@
       "price_final": 12884,
       "dohodnost_final": 55217.1,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 1361.99,
+      "b": 36.68,
+      "formula": "price = 1361.99 + 36.68 * weight_kg",
+      "r2": 1.0,
+      "points": 41,
+      "calibrated_weight_range_kg": [
+        30.54,
+        199.844
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15516,6 +16126,19 @@
       "price_final": 819,
       "dohodnost_final": 8928.6,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 73.77,
+      "b": 2.5,
+      "formula": "price = 73.77 + 2.5 * weight_kg",
+      "r2": 1.0,
+      "points": 6,
+      "calibrated_weight_range_kg": [
+        165.91,
+        199.873
+      ],
+      "status": "предварительная",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -15749,11 +16372,17 @@
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
     },
     "price_fit": {
-      "a": 175.91,
-      "b": 26.3,
-      "formula": "price = 175.91 + 26.3 * weight_kg",
+      "a": 191.44,
+      "b": 21.94,
+      "formula": "price = 191.44 + 21.94 * weight_kg",
+      "r2": 0.9966,
+      "points": 14,
+      "calibrated_weight_range_kg": [
+        1.279,
+        2.409
+      ],
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16372,6 +17001,19 @@
       "price_final": 626,
       "dohodnost_final": 14206.3,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 143.19,
+      "b": 2.93,
+      "formula": "price = 143.19 + 2.93 * weight_kg",
+      "r2": 1.0,
+      "points": 5,
+      "calibrated_weight_range_kg": [
+        41.944,
+        93.857
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16490,6 +17132,19 @@
       "price_final": 486,
       "dohodnost_final": 23930.8,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 167.66,
+      "b": 4.73,
+      "formula": "price = 167.66 + 4.73 * weight_kg",
+      "r2": 1.0,
+      "points": 5,
+      "calibrated_weight_range_kg": [
+        4.299,
+        31.993
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16571,6 +17226,19 @@
       "price_final": 436,
       "dohodnost_final": 20731.4,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 168.64,
+      "b": 3.21,
+      "formula": "price = 168.64 + 3.21 * weight_kg",
+      "r2": 1.0,
+      "points": 9,
+      "calibrated_weight_range_kg": [
+        4.165,
+        36.656
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16773,11 +17441,17 @@
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
     },
     "price_fit": {
-      "a": 157.28,
-      "b": 29.62,
-      "formula": "price = 157.28 + 29.62 * weight_kg",
+      "a": 156.87,
+      "b": 29.85,
+      "formula": "price = 156.87 + 29.85 * weight_kg",
+      "r2": 0.9996,
+      "points": 42,
+      "calibrated_weight_range_kg": [
+        0.877,
+        3.14
+      ],
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16877,7 +17551,7 @@
       "b": 29.82,
       "formula": "price = 3094.79 + 29.82 * weight_kg",
       "status": "подтверждённая",
-      "source": "калибровка предыдущих сессий"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -16999,7 +17673,7 @@
         41.71
       ],
       "status": "подтверждённая",
-      "source": "личные скриншоты садка и поимок, 07.2026"
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
@@ -17105,6 +17779,19 @@
       "price_final": 178,
       "dohodnost_final": 11325.5,
       "price_formula_version": "v2_universal_relative_weight (31.85 * rel%^-0.8968)"
+    },
+    "price_fit": {
+      "a": 47.44,
+      "b": 11.72,
+      "formula": "price = 47.44 + 11.72 * weight_kg",
+      "r2": 0.9993,
+      "points": 15,
+      "calibrated_weight_range_kg": [
+        4.141,
+        6.004
+      ],
+      "status": "подтверждённая",
+      "source": "распознавание личных скриншотов, 07.2026"
     }
   },
   {
